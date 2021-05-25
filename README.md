@@ -1,4 +1,6 @@
 # Trabajo final SCBIO
+Si Git LFS genera problemas para clonar, enlace adicional de descarga: https://www.dropbox.com/sh/hn6x02vv6r0muod/AAALyC9t4gcrE6clsnrBty9Sa?dl=0
+
 Tráiler Juego: https://youtu.be/che67zkHkBc
 
 ¡Gracias por jugar RunCola!
